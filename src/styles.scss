@@ -1,0 +1,15 @@
+$colorPrimario: #27ae60;
+
+#root {
+  text-align: center;
+  margin-top: 3rem;
+
+  .logo {
+    width: 120px;
+  }
+
+  .title {
+    color: $colorPrimario;
+    font-size: 3rem;
+  }
+}
